@@ -17,7 +17,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 - MongoDB - From Relational Model (SQL) to MongoDBs Document Model. `MongoDB`. March/2025. :paperclip: [here](https://www.credly.com/badges/0d4592c4-3c23-4c1d-8c41-d0d1c265495e)
 <img src="img/badge_mongo.png" height=180 width=180>
 
-## Languages <a name="language"></a> :round_pushpin:
+## Languages <a name="languages"></a> :round_pushpin:
 
 - **Portuguese:** Native speaker, I am Brazilian. :brazil:
 - **English:** B1 (Conversational) • B2 (Reading & Writing) :gb:
