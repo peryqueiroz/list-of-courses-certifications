@@ -20,7 +20,7 @@ Reserved repository to list a little of my `academic life.`:heart_eyes:
 ## Languages <a name="languages"></a> :round_pushpin:
 
 - **Portuguese:** Native speaker, I am Brazilian. :brazil:
-- **English:** B1 (Conversational) • B2 (Reading & Writing) :gb:
+- **English:** B1 (Conversational) • B2 (Reading & Writing) :us:
 - **Spanish:** Basic. :es:
 
 ## Courses <a name="courses"></a> :pencil2:
